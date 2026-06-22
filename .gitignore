@@ -1,0 +1,17 @@
+﻿# Codex
+.codex/
+.agents/
+
+# Environment
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
